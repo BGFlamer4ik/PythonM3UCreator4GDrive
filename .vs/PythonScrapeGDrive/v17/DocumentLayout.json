@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\PythonScrapeGDrive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6083EF53-A91D-46CC-BE9F-1932B0C2311A}|PythonScrapeGDrive.pyproj|D:\\Project\\PythonScrapeGDrive\\PythonScrapeGDrive.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6083EF53-A91D-46CC-BE9F-1932B0C2311A}|PythonScrapeGDrive.pyproj|solutionrelative:PythonScrapeGDrive.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PythonScrapeGDrive.py",
+              "DocumentMoniker": "D:\\Project\\PythonScrapeGDrive\\PythonScrapeGDrive.py",
+              "RelativeDocumentMoniker": "PythonScrapeGDrive.py",
+              "ToolTip": "D:\\Project\\PythonScrapeGDrive\\PythonScrapeGDrive.py",
+              "RelativeToolTip": "PythonScrapeGDrive.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-16T17:26:32.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
