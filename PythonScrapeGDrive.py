@@ -1,12 +1,14 @@
 from pydrive2.auth import GoogleAuth
 from pydrive2.drive import GoogleDrive
+from dotenv import load_dotenv
 import os
 
 gauth = GoogleAuth()
 gauth.LocalWebserverAuth()
 drive = GoogleDrive(gauth)
+load_dotenv()
 
-folder_id = ''
+folder_id = os.getenv('FOLDER_ID')
 
 file_list = drive.ListFile({'q': f"'{folder_id}' in parents and trashed=false"}).GetList()
 
